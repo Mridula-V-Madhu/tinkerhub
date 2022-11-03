@@ -6,7 +6,7 @@ Team name is TECHZEN .
 ## Team members
 1. Mridula V Mridula [https://github.com/Mridula-V-Madhu/tinkerhub]
 2. Irfana Thangal 
-3. B Ashwin
+3. Gautham S
 ## Team Id
 BFH/recb6gVLPD84t3mTw/2021
 ## Link to product walkthrough
