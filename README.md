@@ -9,8 +9,6 @@ Team name is TECHZEN .
 3. Gautham S
 ## Team Id
 BFH/recb6gVLPD84t3mTw/2021
-## Link to product walkthrough
-https://drive.google.com/file/d/1fDHjk7WjX5FbDQk_51s8J_baln0ky8n5/view?usp=drivesdk
 ## Libraries used
 tensorflow 2.4.1
 keras 2.4.3
